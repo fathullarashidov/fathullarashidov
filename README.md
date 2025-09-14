@@ -7,7 +7,8 @@ Based in Uzbekistan • Open to **remote** work.
 ---
 
 ## 🚀 What I’m working on
-- **Dasturhon** — mobile app for restaurant booking (React Native + Expo, RTK Query)
+- **Restaurant app** — mobile app for restaurant booking (React Native + Expo, RTK Query)
+- **Healthcare** - Web healthcare platform for booking doctors in hospital
 - **Online Store API** — NestJS + TypeScript + PostgreSQL (Sequelize), Swagger, JWT
 - **Telegram Bot Platform** — registration funnels, payments, referral system, Redis queues
 - **Game microservices** — 2048, Zombie Rush (NestJS + Sequelize, cron tasks, scoring)
